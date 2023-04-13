@@ -7,9 +7,9 @@
 <p align="justify">
 ## Description
 
-A memory game of Naruto, made with HTML, CSS & JS
-Link: https://dexter2k8.github.io/memory-game/
+<p>A memory game of Naruto, made with HTML, CSS & JS. Includes a mobile layout.</p>
+<p>Link: https://dexter2k8.github.io/memory-game/</p>
 
-![Page layout](https://github.com/dexter2k8/react-pro-sidebar/blob/main/public/page.gif)
+![Page layout](https://github.com/dexter2k8/memory-game/blob/main/src/assets/page.gif)
 
 </p>
